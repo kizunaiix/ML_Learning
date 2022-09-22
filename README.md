@@ -11,3 +11,4 @@ TODO
      - [ ] **Spark-based** Indicator Execution in OpenLAP
      - [ ] **Privacy**-Preserving Learner Data Management in OpenLAP
      - [ ] Semantic Interest Modeling Using **Embeddings**
+3. - [ ] pip install witwidget
